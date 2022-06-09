@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetoMentoria2", "ProjetoMentoria2\ProjetoMentoria2.csproj", "{4E875308-BBDD-4571-AFF2-E3B593E08300}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mentoria2Teste", "Mentoria2Teste\Mentoria2Teste.csproj", "{C4DFB28E-D326-4457-807D-56D310F9BAD6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E875308-BBDD-4571-AFF2-E3B593E08300}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E875308-BBDD-4571-AFF2-E3B593E08300}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E875308-BBDD-4571-AFF2-E3B593E08300}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E875308-BBDD-4571-AFF2-E3B593E08300}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4DFB28E-D326-4457-807D-56D310F9BAD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4DFB28E-D326-4457-807D-56D310F9BAD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4DFB28E-D326-4457-807D-56D310F9BAD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4DFB28E-D326-4457-807D-56D310F9BAD6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD15A8DE-CDD7-4818-8B15-24934C895555}
+	EndGlobalSection
+EndGlobal
